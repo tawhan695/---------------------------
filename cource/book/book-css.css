@@ -1,0 +1,45 @@
+.img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button1{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  width: 220px;
+  height: 50px;
+  margin: 20px 20px 10px 10px;
+}
+.button2{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #C9302C;
+  width: 220px;
+  height: 50px;
+  margin: 20px 20px 10px 10px;
+}
+
+.pdf{
+    background-image: url(../../img/icon/icons8_PDF.ico);
+}
+.modal-body{
+    margin-top:  100px;
+    margin-bottom:   50px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.btn-model1{
+    margin: 10px 10px 10px 10px;
+}
+.btn-model2{
+    margin: 10px 10px 10px 10px;
+}
+/*/teble/*/
+.tableJ{
+    margin: 50px 30px 100px 30px;;
+}
+tr:nth-child(even){background-color:#cccccc}
+
+th {
+  background-color: #122F3E;
+  color: white;
+}
